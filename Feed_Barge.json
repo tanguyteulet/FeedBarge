@@ -1,5 +1,4 @@
 {
-	"attributes": {},
 	"designState": {
 		"calculationParameters": {
 			"LWL_design": 30,
@@ -16,6 +15,9 @@
 				"fullness": ""
 			}
 		}
+	},
+	"header":{
+		"author": ["Tanguy Teulet"]
 	},
 	"structure": {
 		"hull": {
